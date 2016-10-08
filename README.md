@@ -1,6 +1,7 @@
 ##iOS10AdaptationTips 
 
-### Reference:[iOS10AdaptationTips](https://github.com/ChenYilong/iOS10AdaptationTips)
+### Reference:[iOS10AdaptationTips ChenYilong/iOS10AdaptationTips
+](https://github.com/ChenYilong/iOS10AdaptationTips)
 
 ###Notification
 
