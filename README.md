@@ -51,7 +51,7 @@ SDK'iOS 10.0'(Xcode 8) 引入了 从UIKit独立出来的User NOtification framew
 
 ####本地通知，可以把任何东西写在一个地方。
 一些人可能和这个伙计有同样的问题：
-
+![](http://ocnhrgfjb.bkt.clouddn.com/image/notification/question-1.jpeg)
 
 第一个问题几乎是不可能直接解决的，但是通过本地通知从某种角度而言也许是最好的方式去在特定的时间甚至是特定的位置去唤醒你的app。这是因为本地通知就是通过特定的条件比如时间或定位来有计划的传送本地通知。
 
